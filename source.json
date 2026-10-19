@@ -1,0 +1,39 @@
+{
+  "name": "Hundo",
+  "identifier": "it.hundo.sidestore",
+  "subtitle": "Build di prova di Hundo",
+  "iconURL": "https://raw.githubusercontent.com/Fugazzina/hundo-sidestore/main/icon.png",
+  "tintColor": "#8B5CF6",
+  "news": [],
+  "apps": [
+    {
+      "bundleIdentifier": "it.hundo.app.test",
+      "versions": [
+        {
+          "version": "0.4.0",
+          "buildVersion": "15",
+          "date": "2026-10-19T12:22:33.588Z",
+          "downloadURL": "https://github.com/Fugazzina/hundo-sidestore/releases/download/build-15/Hundo-0.4.0-15.ipa",
+          "size": 1884818,
+          "localizedDescription": "Build 15 di Codemagic",
+          "minOSVersion": "15.0"
+        }
+      ],
+      "name": "Hundo",
+      "developerName": "Tommaso",
+      "subtitle": "Trofei PlayStation, obiettivi Xbox e Steam",
+      "localizedDescription": "Guida ai trofei PlayStation, agli obiettivi Xbox e agli obiettivi Steam in un'unica app. Versione di prova.",
+      "iconURL": "https://raw.githubusercontent.com/Fugazzina/hundo-sidestore/main/icon.png",
+      "tintColor": "#8B5CF6",
+      "category": "utilities",
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "version": "0.4.0",
+      "versionDate": "2026-10-19T12:22:33.588Z",
+      "downloadURL": "https://github.com/Fugazzina/hundo-sidestore/releases/download/build-15/Hundo-0.4.0-15.ipa",
+      "size": 1884818
+    }
+  ]
+}
