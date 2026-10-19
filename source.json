@@ -11,6 +11,15 @@
       "versions": [
         {
           "version": "0.4.0",
+          "buildVersion": "17",
+          "date": "2026-10-19T13:07:56.755Z",
+          "downloadURL": "https://github.com/Fugazzina/hundo-sidestore/releases/download/build-17/Hundo-0.4.0-17.ipa",
+          "size": 1887066,
+          "localizedDescription": "Build 17 di Codemagic",
+          "minOSVersion": "15.0"
+        },
+        {
+          "version": "0.4.0",
           "buildVersion": "16",
           "date": "2026-10-19T12:50:30.517Z",
           "downloadURL": "https://github.com/Fugazzina/hundo-sidestore/releases/download/build-16/Hundo-0.4.0-16.ipa",
@@ -40,9 +49,9 @@
         "privacy": {}
       },
       "version": "0.4.0",
-      "versionDate": "2026-10-19T12:50:30.517Z",
-      "downloadURL": "https://github.com/Fugazzina/hundo-sidestore/releases/download/build-16/Hundo-0.4.0-16.ipa",
-      "size": 1886851
+      "versionDate": "2026-10-19T13:07:56.755Z",
+      "downloadURL": "https://github.com/Fugazzina/hundo-sidestore/releases/download/build-17/Hundo-0.4.0-17.ipa",
+      "size": 1887066
     }
   ]
 }
