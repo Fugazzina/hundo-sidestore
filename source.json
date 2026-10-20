@@ -10,6 +10,15 @@
       "bundleIdentifier": "it.hundo.app.test",
       "versions": [
         {
+          "version": "0.6.34",
+          "buildVersion": "34",
+          "date": "2026-10-20T21:49:53.350Z",
+          "downloadURL": "https://github.com/Fugazzina/hundo-sidestore/releases/download/build-34/Hundo-0.6.34-34.ipa",
+          "size": 1943649,
+          "localizedDescription": "Build 34 di Codemagic",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.6.33",
           "buildVersion": "33",
           "date": "2026-10-20T21:36:15.012Z",
@@ -89,15 +98,6 @@
           "size": 1932821,
           "localizedDescription": "Build 25 di Codemagic",
           "minOSVersion": "15.0"
-        },
-        {
-          "version": "0.5.24",
-          "buildVersion": "24",
-          "date": "2026-10-19T20:58:39.545Z",
-          "downloadURL": "https://github.com/Fugazzina/hundo-sidestore/releases/download/build-24/Hundo-0.5.24-24.ipa",
-          "size": 1928633,
-          "localizedDescription": "Build 24 di Codemagic",
-          "minOSVersion": "15.0"
         }
       ],
       "name": "Hundo",
@@ -111,10 +111,10 @@
         "entitlements": [],
         "privacy": {}
       },
-      "version": "0.6.33",
-      "versionDate": "2026-10-20T21:36:15.012Z",
-      "downloadURL": "https://github.com/Fugazzina/hundo-sidestore/releases/download/build-33/Hundo-0.6.33-33.ipa",
-      "size": 1942039
+      "version": "0.6.34",
+      "versionDate": "2026-10-20T21:49:53.350Z",
+      "downloadURL": "https://github.com/Fugazzina/hundo-sidestore/releases/download/build-34/Hundo-0.6.34-34.ipa",
+      "size": 1943649
     }
   ]
 }
